@@ -1,4 +1,4 @@
-# Instruct Lab Web
+# InstructLab CUDA Container
 
 ![image](/img/action.png)
 
